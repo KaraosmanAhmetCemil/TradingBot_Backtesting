@@ -1,4 +1,4 @@
-# Tradingbot_Backtesting
+# TradingBot_Backtesting
 
 # Trading Strategy Backtest - Binance Setup Guide
 
