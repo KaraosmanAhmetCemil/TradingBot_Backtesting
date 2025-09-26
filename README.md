@@ -143,3 +143,8 @@ Modify the `get_binance_4h_data()` call in `Tradingbot_Backtesting.py`:
 ```python
 binance_data = get_binance_4h_data(symbol="ETHUSDT")  # Change to Ethereum
 ```
+
+### Additional Documentation
+
+For more details on the backtesting library and its features, see the official documentation: [Backtesting.py Documentation](https://kernc.github.io/backtesting.py/)
+
